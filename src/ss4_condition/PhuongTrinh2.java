@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Giai phuong trinh bac 2 co dang: ax2 + bx + c = 0
  */
-public class phuongTrinh2 {
+public class PhuongTrinh2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
