@@ -2,7 +2,9 @@ package ss5_loop;
 
 import java.util.Scanner;
 
-
+/**
+ * In day so 2, -4, 6, 8,-10, 12, 14, 16, -18, ...n (n la so nhap vao tu ban phim)
+ */
 public class SoChan2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
