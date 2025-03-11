@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * In day so 1, 2, 3, 5, 8, 13, ...n (n la so nhap vao tu ban phim)
  */
-public class fibonacci {
+public class Fibonacci {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
