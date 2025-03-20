@@ -1,4 +1,4 @@
-package constructor;
+package ss2_constructor;
 
 public class PhanSo {
     private int tuSo;

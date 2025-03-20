@@ -1,4 +1,4 @@
-package constructor;
+package ss2_constructor;
 
 public class ThoiGian {
     private int gio;

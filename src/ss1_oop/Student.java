@@ -1,4 +1,4 @@
-package ss7_string;
+package ss1_oop;
 
 import java.util.Scanner;
 
